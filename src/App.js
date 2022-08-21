@@ -5,6 +5,7 @@ import CourseCard from "./components/courseCard";
 
 // Data from Json file
 const data = dataJson.courses;
+console.log(data);
 
 function App() {
   let all = [];
