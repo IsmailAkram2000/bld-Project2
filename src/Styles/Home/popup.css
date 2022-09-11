@@ -1,0 +1,65 @@
+.tippy-popper {
+  border: none;
+}
+
+.pop {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.08);
+  background-color: #fff;
+  width: 20rem;
+  color: #000;
+  padding: 0;
+  margin: 0;
+}
+
+.pop i {
+  color: #000;
+}
+
+.pop h4 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  padding: 0.4rem;
+}
+
+.pop p {
+  padding: 0.4rem;
+}
+
+.pop-p1 {
+  color: rgb(13, 43, 1);
+}
+
+.pop-p2 {
+  color: #808080;
+  font-size: 0.8rem;
+}
+
+.pop-p3 {
+  font-size: 1rem;
+  margin: 1rem 0;
+}
+
+.course-detail {
+  font-size: 0.8rem;
+}
+
+.buy-course {
+  width: 70%;
+  height: 3rem;
+  margin: 1rem;
+  background-color: #a435f0;
+  border: none;
+  color: #fff;
+}
+
+.heart {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  padding-top: 0.2rem;
+  margin-top: 1rem;
+}
+
+.heart i {
+  font-size: 1.5rem;
+}

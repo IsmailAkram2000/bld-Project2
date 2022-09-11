@@ -1,0 +1,91 @@
+.content-details {
+  margin-left: 7.8rem;
+}
+
+.content-details p {
+  font-size: 0.8rem;
+  margin-top: 1.5rem;
+}
+
+.content {
+  width: 70%;
+}
+
+.title-box {
+  background-color: #f7f9fa;
+  border: 1px solid #cec0fc;
+  margin-left: 8rem;
+  color: black;
+  height: 3rem;
+  width: 78%;
+}
+
+.title-box:first-child {
+  margin-top: 2rem;
+}
+
+.title-row {
+  align-items: center;
+}
+
+.title-row h5 {
+  justify-self: left;
+  font-size: 1rem;
+  font-weight: bold;
+  padding-left: 1rem;
+}
+
+.title-row h1 {
+  flex-grow: 1;
+}
+
+.title-row p {
+  font-size: 0.9rem;
+  margin-right: 1rem;
+  padding-top: 0.6rem;
+}
+
+.content-row {
+  background-color: #fff;
+  border: 1px solid #cec0fc;
+  margin: 0 0 0 8rem;
+  color: black;
+  width: 78%;
+}
+
+.content-text {
+  color: #1c1d1f;
+  margin-left: 1rem;
+}
+
+.content-text i {
+  color: #000;
+}
+
+.preview-a {
+  color: #5624d0;
+  text-decoration: underline;
+}
+
+.Preview p {
+  color: #6a6f73;
+  padding: 0 1rem 0 2rem;
+}
+
+.requirements {
+  margin: 4rem 0 0 8rem;
+}
+
+.requirements h2 {
+  margin-bottom: 1.5rem;
+}
+
+.requirements li {
+  color: #1c1d1f;
+}
+
+@media (width < 1080px) {
+  .content {
+    width: 90%;
+  }
+}

@@ -1,0 +1,266 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: #1c1d1f;
+  padding: 1rem 0;
+  position: relative;
+}
+
+.header-aside {
+  padding: 0 0 0 10%;
+  width: 70%;
+}
+
+.header-aside span {
+  color: #fff;
+}
+
+.header-link {
+  display: inline;
+  font-size: 0.8rem;
+  color: #cec0fc;
+}
+
+.header-link a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.header-text {
+  background-color: #1c1d1f;
+  box-shadow: none;
+  color: #fff;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.header-text h1,
+.header-text p {
+  width: 90%;
+  padding: 1rem 0;
+}
+
+.header-text h1 {
+  font-size: 2rem;
+}
+
+.rating {
+  display: flex;
+  font-size: 1rem;
+  color: #fff;
+}
+
+.rating-points,
+i {
+  color: #f3ca8c;
+  font-size: 0.9rem;
+  padding-top: 0.2rem;
+}
+
+.rating i {
+  padding-top: 0.4rem;
+}
+
+.pa {
+  font-size: 1rem;
+  text-decoration: underline;
+}
+
+.rp {
+  font-size: 1rem;
+  color: #fff;
+}
+
+.price {
+  display: none;
+}
+
+.aside {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.08);
+  background-color: #fff;
+  color: #000;
+  width: 25%;
+  margin: 2rem 5% 0 0;
+  position: absolute;
+  top: 0.5rem;
+  left: 70%;
+  z-index: 2;
+}
+
+.headerFixed {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.08);
+  background-color: #fff;
+  color: #000;
+  width: 25%;
+  margin: 2rem 5% 0 0;
+  position: fixed;
+  top: 0.5rem;
+  left: 70%;
+  z-index: 2;
+}
+
+.header-image {
+  display: none;
+  width: 100%;
+}
+
+.header-img {
+  display: inline;
+  width: 100%;
+}
+
+.add,
+.buy {
+  width: 89%;
+  height: 3rem;
+  margin: auto auto 1rem auto;
+  background-color: #a435f0;
+  border: none;
+  color: #fff;
+}
+
+.buy {
+  background-color: #fff;
+  border: 1px solid #000;
+  color: #000;
+  font-weight: bold;
+}
+
+.as-p {
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+aside h4 {
+  margin-left: 1rem;
+  font-size: 1rem;
+}
+
+.details {
+  margin-left: 1rem;
+  font-size: 0.9rem;
+}
+
+.share {
+  font-size: 0.8rem;
+  justify-content: space-around;
+  margin: 0 0.5rem;
+  font-weight: bold;
+  text-decoration: underline;
+  color: #1c1d1f;
+}
+
+.share-sm {
+  display: none;
+}
+
+.share a {
+  cursor: pointer;
+}
+
+.trainging {
+  font-family: udemy sans, -apple-system, BlinkMacSystemFont, Roboto, segoe ui,
+    Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji,
+    segoe ui symbol;
+  color: #1c1d1f;
+  padding: 1rem;
+  line-height: 1.2;
+}
+
+.trainging h6 {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+.trainging p {
+  font-size: 0.9rem;
+}
+
+.try {
+  background-color: #fff;
+  border: 1px solid;
+  margin: 0 2rem 1.5rem;
+  width: 80%;
+  height: 3rem;
+}
+
+.try:hover {
+  background-color: #f7f9fa;
+}
+
+@media (width < 1080px) {
+  header {
+    padding-left: 0;
+    width: 100%;
+  }
+
+  aside {
+    display: none;
+  }
+
+  .header-aside {
+    margin-left: 10%;
+    width: 70%;
+  }
+
+  .header-image {
+    display: inline;
+    margin: 2rem 0;
+    width: 80%;
+  }
+
+  .header-image img {
+    width: 90%;
+    margin: 2rem 0;
+  }
+
+  .header-text p {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+  }
+
+  .price {
+    display: block;
+  }
+
+  .price h2 {
+    color: #fff;
+    font-size: 2.5rem;
+    margin: 1rem 0;
+    padding: 0;
+  }
+
+  .price button {
+    margin: 1rem 0 !important;
+    width: 100%;
+  }
+
+  .price p {
+    color: #fff;
+  }
+
+  .as-p {
+    margin: 0.6rem;
+  }
+
+  .share-sm {
+    display: block;
+    margin-top: 1rem;
+  }
+
+  .share {
+    width: 100%;
+  }
+
+  .share a {
+    color: #fff !important;
+    font-size: 1rem !important;
+    font-weight: normal;
+    margin-top: 1rem;
+  }
+}

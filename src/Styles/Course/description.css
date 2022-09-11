@@ -1,0 +1,37 @@
+.description {
+  width: 70%;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0 0 8rem;
+}
+
+.description p {
+  padding: 1.2rem 2rem 0 0;
+}
+
+.pr-1,
+.pr-2 {
+  max-height: 15rem;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(black, transparent);
+  mask-image: linear-gradient(black, transparent);
+}
+
+.show-more {
+  color: #5624d0;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}
+
+@media (width < 1080px) {
+  .description {
+    width: 95%;
+  }
+
+  .description p {
+    width: 90%;
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "courseName": "Learn Python: The Complete Python Programming Course",
+      "CouseTitle": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+      "ratings": "3.242",
+      "students": "19,680",
+      "price": "E£679.99",
+      "learn": [
+        "Create their own Python Programs",
+        "Become an experienced Python Programmer",
+        "Parse the Web and Create their own Games"
+      ],
+      "courseContent": "15 sections • 146 lectures • 14h 42m total length",
+      "sections": [
+        {
+          "id": 1,
+          "title": "Up and Running With Python",
+          "lec_time": "2 lectures . 6 min",
+          "rows": [
+            { "name": "Installing Python", "time": "04.07" },
+            { "name": "Hello World", "time": "01.37" }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "The Basics (Data Types)",
+          "lec_time": "10 lectures . 53 min",
+          "rows": [
+            { "name": "Variables", "time": "03.01" },
+            { "name": "Multiple Assignment", "time": "03:44" },
+            { "name": "Data Types and Ints", "time": "03:57" },
+            { "name": "Strings", "time": "07:26" },
+            { "name": "Placeholders", "time": "03:49" },
+            { "name": "Lists/Arrays", "time": "06:03" },
+            { "name": "List Functions", "time": "07:18" },
+            { "name": "Dictionaries", "time": "06:54" },
+            { "name": "Dictionary Functions", "time": "05:33" },
+            { "name": "Tuples", "time": "05:01" }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Conditions and Loops",
+          "lec_time": "12 lectures . 57 min",
+          "rows": [
+            { "name": "If-Else Statements", "time": "03.18" },
+            { "name": "Relational Operators", "time": "05:57" },
+            { "name": "Nested If/Else", "time": "04:23" },
+            { "name": "Elif Statements", "time": "03:33" },
+            { "name": "Logical Operators", "time": "03:58" },
+            { "name": "For Loops", "time": "07:22" },
+            { "name": "While Loops", "time": "03:35" },
+            { "name": "Nested For Loops", "time": "03:54" },
+            { "name": "Pass, Break and Continue", "time": "05:33" },
+            { "name": "Try and Except", "time": "05:01" },
+            { "name": "Commenting", "time": "02:11" },
+            { "name": "Quick Tips", "time": "04:24" }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Functions",
+          "lec_time": "7 lectures . 26 min",
+          "rows": [
+            { "name": "Creating our own Functions", "time": "03.18" },
+            { "name": "Global and Local Vars", "time": "05:57" },
+            { "name": "Abs and Bool", "time": "04:23" },
+            { "name": "Help and Dir", "time": "03:33" },
+            { "name": "Eval and Exec", "time": "03:58" },
+            { "name": "Str, Int, Float", "time": "07:22" },
+            { "name": "Recap and Sum", "time": "03:35" }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Classes! (Object Oriented Programming)",
+          "lec_time": "5 lectures . 28 min",
+          "rows": [
+            { "name": "Basics of Classes", "time": "03.18" },
+            { "name": "Functions in Classes", "time": "05:57" },
+            { "name": "Class Attributes", "time": "04:23" },
+            { "name": "Inheritance", "time": "03:33" },
+            { "name": "Overriding Methods", "time": "03:58" }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "File Input/ Output",
+          "lec_time": "7 lectures . 26 min",
+          "rows": [
+            { "name": "Creating a File", "time": "03.18" },
+            { "name": "Creating a File (Windows)", "time": "05:57" },
+            { "name": "Reading a File", "time": "04:23" },
+            { "name": "Writing to a File", "time": "03:33" },
+            { "name": "Appending to Files", "time": "03:58" },
+            { "name": "Copying Files", "time": "07:22" }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Using Python Modules",
+          "lec_time": "10 lectures . 59 min",
+          "rows": [
+            { "name": "Random Module - Randint", "time": "03.18" },
+            { "name": "Guessing Game", "time": "05:57" },
+            { "name": "Random Module - Shuffle and Choice", "time": "04:23" },
+            { "name": "Sys Module", "time": "03:33" },
+            { "name": "Time Module", "time": "03:58" },
+            { "name": "Turtle Module", "time": "07:22" },
+            { "name": "For Loops in Turtle", "time": "03:35" },
+            { "name": "Up and Down Functions", "time": "03:58" },
+            { "name": "Coloring in Turtle", "time": "07:22" },
+            { "name": "Functions in Turtle", "time": "03:35" }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Crawling The Web",
+          "lec_time": "7 lectures . 52 min",
+          "rows": [
+            { "name": "Re Module", "time": "03.18" },
+            { "name": "Crawling The Web (Stocks)", "time": "05:57" },
+            { "name": "Crawling The Web (Weather)", "time": "04:23" },
+            { "name": "Crawling The Web (Definition)", "time": "03:33" }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Beautiful Soup HTML Parsing",
+          "lec_time": "9 lectures . 1hr 1min",
+          "rows": [
+            { "name": "Intro to Beautiful Soup", "time": "03.18" },
+            { "name": "Installing the Beautiful Soup Module", "time": "05:57" },
+            { "name": "Prettify with Soup", "time": "04:23" },
+            { "name": "Drilling Down", "time": "03:33" },
+            { "name": "Functions in Soup", "time": "03:58" },
+            { "name": ".String and .Parent", "time": "07:22" },
+            { "name": "Searching in Soup", "time": "03:35" },
+            { "name": "Weather Parsing", "time": "03:35" },
+            { "name": "Antonym Parsing", "time": "03:35" }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "MatPlotLib - Charts, Plots and 3D Figures!",
+          "lec_time": "20 lectures . 1hr 49min",
+          "rows": [
+            { "name": "Intro to MatPlotLib", "time": "03.18" },
+            { "name": "First Graph!", "time": "05:57" },
+            {
+              "name": "Understanding the MatPlotLib Interface",
+              "time": "04:23"
+            },
+            { "name": "Graph Labels", "time": "03:33" },
+            { "name": "Creating a Graph from a File", "time": "03:58" },
+            { "name": "Understanding SubPlots and Figures", "time": "07:22" },
+            { "name": "Coloring of Graph", "time": "03:35" },
+            { "name": "Multiple Plots in a Graph", "time": "03.18" },
+            { "name": "Multiple Graphs in a Figure", "time": "05:57" },
+            { "name": "What about 3 graphs?", "time": "04:23" },
+            { "name": "Bar Graphs Intro", "time": "03:33" },
+            { "name": "Modifying our Bar Graph", "time": "03:58" },
+            { "name": "Pie Chart Intro", "time": "07:22" },
+            { "name": "Modifying our Pie Chart", "time": "03:35" },
+            { "name": "Adding a Legend", "time": "03.18" },
+            { "name": "3D Graphics Intro", "time": "05:57" },
+            { "name": "3D Scatter Plots", "time": "04:23" },
+            { "name": "Multiple 3D Scatter Plots", "time": "03:33" },
+            { "name": "3D Bar Graphs", "time": "03:58" },
+            { "name": "3D Wireframes", "time": "03:35" }
+          ]
+        }
+      ],
+      "description": "Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years. The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course you'll be an absolute pro at programming! This course will cover all the basics and several advanced concepts of Python. Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years. The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course you'll be an absolute pro at programming! This course will cover all the basics and several advanced concepts of Python. Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years. The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course you'll be an absolute pro at programming! This course will cover all the basics and several advanced concepts of Python. Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years. The best part? Python is one of the easiest coding languages to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course you'll be an absolute pro at programming! This course will cover all the basics and several advanced concepts of Python.",
+      "instructors": {
+        "name": "Avinash Jain",
+        "postion": "CEO of TheCodex.me - Teaching 500,000+ Students how to code",
+        "Image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
+        "details": "Avinash Jain is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational platform focused on bringing the best programming content to hundreds of thousands of students around the world. His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather. Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in several hackathons around the world including PennApps and NWHacks. Avinash has a passion to teach - his enthusiasm and love for programming is evident in every video. For the past 7 years he's been an instructor on Udemy and he loves motivating and enabling others to pursue their programming dreams. He hopes to help students realize the power of programming and jumpstart their careers through his courses. Checkout TheCodex for all of his courses, fantastic discounts, and any guidance or help.",
+        "companyDetails": "You've taken a lengthy and boring coding className, but you're clueless about applying these concepts to build your ideas. The Codex shows you how to build fun, practical projects. Now, you can stand out from the crowd and land your dream job.",
+        "joinUs": "Join us on our platform today!"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "short": "AH",
+          "name": "Asif H.",
+          "stars": "3.1",
+          "comment": "Sometimes confusing but was able to clarify. Good job nonetheless.",
+          "period": "a week ago",
+          "time": 7
+        },
+        {
+          "id": 2,
+          "short": "M",
+          "name": "M.S.Swaroop",
+          "stars": "4.3",
+          "comment": "the course is specialized so that we learn ourselves deeply,simple and easy",
+          "period": "3 days ago",
+          "time": 3
+        },
+        {
+          "id": 3,
+          "short": "SR",
+          "name": "Saurish R.",
+          "stars": "2.8",
+          "comment": "In depth concepts of python have been clearly explained. Good chemistry between student and instructor. Fantastic course. Completed every vid and had lot of fun",
+          "period": "2 days ago",
+          "time": 2
+        },
+        {
+          "id": 4,
+          "short": "S",
+          "name": "Shiristi",
+          "stars": "4.4",
+          "comment": "i can't say as i have not taken that many classes yet but so far it is good. edited( so yeah it was a journey for me many things happen but i am glad they did and also grateful to the person who is guiding me and thanks udemy for these courses really appreciate it !!!)",
+          "period": "3 monthe ago",
+          "time": 90
+        },
+        {
+          "id": 5,
+          "short": "EG",
+          "name": "Ejeshi G.",
+          "stars": "4.8",
+          "comment": "teacher is good and direct, though not prompt at responding to questions and enquiries",
+          "period": "1 year ago",
+          "time": 365
+        },
+        {
+          "id": 6,
+          "short": "SK",
+          "name": "Shyam K.",
+          "stars": "1.8",
+          "comment": "not from the basic .many small but very irritating error comes and i was not able to find the solution in a week also . so it is not satisfying. educator should at least disscuss about all that possible errors.",
+          "period": "4 day ago",
+          "time": 4
+        },
+        {
+          "id": 7,
+          "short": "SA",
+          "name": "Sreelakshmi A.",
+          "stars": "4.5",
+          "comment": "The contents are good for getting a good idea about Python. But it's little bit outdated. Instructor is good. But the sound quality can be improved. Please try to update the content. The course is almost 5 - 6 years old. So, think before purchasing.",
+          "period": "4 monthe ago",
+          "time": 120
+        },
+        {
+          "id": 8,
+          "short": "MG",
+          "name": "Matthew E G.",
+          "stars": "4.6",
+          "comment": "I took this course with Python 3.10 utilizing PyCharm as an IDE, so some of the information is a little dated. With that being said, good basics are covered to where figuring out your solution isn't anything too difficult. This course was definitely incredibly helpful in taking a bigger plunge into Python.",
+          "period": "Yesterday",
+          "time": 1
+        },
+        {
+          "id": 9,
+          "short": "TG",
+          "name": "Todd G.",
+          "stars": "2.9",
+          "comment": "I am still making my way through the course. However, I like the structure and the pace as well as the pdf exercises. I was learning by watching youtube but it is nice having a structured lesson that gradually progresses in difficulty. It's also nice having a certificate as a way to validate what I've learned to others.",
+          "period": "1 hour ago",
+          "time": 0
+        },
+        {
+          "id": 10,
+          "short": "BR",
+          "name": "Bill R.",
+          "stars": "3.3",
+          "comment": "Left mouse pointer on text frequently Recording setup picked up heavy key strikes making listening difficult. Solved problems well as they came.",
+          "period": "3 weeks ago",
+          "time": 21
+        }
+      ]
+    }
+  ]
+}

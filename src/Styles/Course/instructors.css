@@ -1,0 +1,50 @@
+.instructors {
+  margin: 4rem 0 0 8rem;
+}
+
+.instructors h2 {
+  margin-bottom: 1.5rem;
+}
+
+.instructors h4 {
+  cursor: pointer;
+  color: #5624d0;
+  text-decoration: underline;
+}
+
+.instructors p {
+  color: #6a6f73;
+  margin-top: 0.5rem;
+}
+
+.instructors-img {
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+  margin-top: 1rem;
+}
+
+.instructors-row i {
+  color: #1c1d1f;
+  padding-top: 0.4rem;
+  font-size: 0.8rem;
+}
+
+.instructors p {
+  margin: 0 0 2rem 0;
+}
+
+.instructors-details {
+  margin: 3rem 0;
+  width: 60%;
+}
+
+@media (width < 1080px) {
+  .instructors {
+    width: 80%;
+  }
+
+  .instructors-details {
+    width: 90%;
+  }
+}

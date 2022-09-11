@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.categories img {
+  margin-bottom: 1rem;
+}
+
+.categories img:hover {
+  transform: scale(1.1);
+}
