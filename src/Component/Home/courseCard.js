@@ -5,7 +5,6 @@ import Pop from "./popup";
 import { Popover, OverlayTrigger } from "react-bootstrap";
 
 function CourseCard({ course, number }) {
-  console.log(number);
   const popoverRight = (
     <Popover id="popover-positioned-right">
       <Pop />
