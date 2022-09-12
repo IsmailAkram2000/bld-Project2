@@ -1,14 +1,9 @@
-.tippy-popper {
-  border: none;
-}
-
 .pop {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08), 0 4px 12px rgba(0, 0, 0, 0.08);
   background-color: #fff;
-  width: 20rem;
+  width: 100%;
   color: #000;
-  padding: 0;
-  margin: 0;
+  padding: 0.5rem;
 }
 
 .pop i {
@@ -16,15 +11,8 @@
 }
 
 .pop h4 {
-  font-size: 1.5rem;
-  margin-bottom: 0.5rem;
-  padding: 0.4rem;
+  font-size: 1.2rem;
 }
-
-.pop p {
-  padding: 0.4rem;
-}
-
 .pop-p1 {
   color: rgb(13, 43, 1);
 }
@@ -35,29 +23,29 @@
 }
 
 .pop-p3 {
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin: 1rem 0;
 }
 
 .course-detail {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 
 .buy-course {
   width: 70%;
-  height: 3rem;
-  margin: 1rem;
+  height: 2.5rem;
+  margin: 0.5rem;
   background-color: #a435f0;
   border: none;
   color: #fff;
 }
 
 .heart {
-  width: 3rem;
-  height: 3rem;
+  width: 2.5rem;
+  height: 2.5rem;
   border-radius: 50%;
   padding-top: 0.2rem;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 }
 
 .heart i {
