@@ -10,7 +10,7 @@ function Description() {
 
   const toggle = () => {
     p?.classList.toggle("pr-1");
-    if (showMore1.textContent === "Show more")
+    if (showMore1?.textContent === "Show more")
       showMore1.textContent = "Show less";
     else showMore1.textContent = "Show more";
   };
