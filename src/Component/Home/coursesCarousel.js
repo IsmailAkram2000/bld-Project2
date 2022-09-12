@@ -48,7 +48,7 @@ function CoursesCursor(curTab) {
       return el.tab === curTab && title.indexOf(txt) != -1;
     })
     .map((el, idx) => {
-      return <CourseCard course={el} key={idx} />;
+      return <CourseCard course={el} number={(idx % 5) + 1} key={idx} />;
     });
 
   const all = compute(comp);
