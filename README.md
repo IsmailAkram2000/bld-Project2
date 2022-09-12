@@ -1,8 +1,9 @@
 * First step:- download the node_modules using the command "npm init"
 
-* Second Step:- install axios and react-router-dom libraries using the commands
+* Second Step:- install axios, react-router-dom and react-bootstrap libraries using the commands
    "npm i axios"
    "npm install react-router-dom@6"
+   "npm i react-bootstrap"
    
 * Third Step:- run the json servers, There're two json file so we must run two servers on port "3001" and "3002" using the commands
    "json-server --watch src/Json/courses.json --port=3001"
