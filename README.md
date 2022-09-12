@@ -1,4 +1,4 @@
-* First step:- download the node_modules using the command "npm init"
+* First step:- download the node_modules using the command "npm i"
 
 * Second Step:- install axios, react-router-dom and react-bootstrap libraries using the commands
    "npm i axios"
